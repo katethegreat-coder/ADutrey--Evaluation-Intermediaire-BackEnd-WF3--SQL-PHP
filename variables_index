@@ -1,14 +1,3 @@
-# ADutrey--Evaluation-Intermediaire-BackEnd-WF3--SQL-PHP
-4hours
--> Create a DB "immobilier" with a table "logement", including: id - titre   - adresse  - ville   - cp   - surface   - prix   - photo - type (location ou vente)   - description.
--> Create a form to add an ad: all fields are compulsory, except photo & description, cp should be 5 digits max., the size and type of the photo should be checked. The type field should be select options or radio buttons. Save datas into the DB.
--> Create a page displaying all ads in a table
--> Uploaded files should be renamed such as é « logement_timestamp.jpg »
--> Create a page displaying a selected ad 
-
-
-VARIABLES INDEX
-----------------------
 PHP VARIABLES
 --------------
 $ad                         ---> ad inside the loop
